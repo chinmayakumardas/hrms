@@ -1,12 +1,13 @@
 
-import Shortlisted from './shortlisted-list/page';
+import LoginPage from './login/page';
 
 const Page = () => {
   return (
     <div className="">
      
       
-        <Shortlisted/>
+        <LoginPage/>
+  
     </div>
   );
 };
