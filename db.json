@@ -1,0 +1,45 @@
+{
+    "result": [
+        {
+          "roundId": 1,
+          "roundName": "Technical Round 1",
+          "feedback": "Strong understanding of algorithms, but needs to improve coding speed.",
+          "result": "clear",
+          "status": "completed",
+          "date": "2024-12-10"
+        },
+        {
+          "roundId": 2,
+          "roundName": "Technical Round 2",
+          "feedback": "Good knowledge of data structures, showed problem-solving abilities.",
+          "result": "clear",
+          "status": "completed",
+          "date": "2024-12-12"
+        },
+        {
+          "roundId": 3,
+          "roundName": "Technical Round 3",
+          "feedback": "Solid performance, but struggled with edge cases.",
+          "result": "clear",
+          "status": "completed",
+          "date": "2024-12-14"
+        },
+        {
+          "roundId": 4,
+          "roundName": "HR Interview",
+          "feedback": "Great cultural fit, but needs to work on communication.",
+          "result": "fail",
+          "status": "completed",
+          "date": "2024-12-16"
+        },
+        {
+          "roundId": 5,
+          "roundName": "Managerial Interview",
+          "feedback": "",
+          "result": "",
+          "status": "not scheduled",
+          "date": "2024-12-18"
+        }
+      ]
+    
+}
