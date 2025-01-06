@@ -45,6 +45,7 @@ const Shortlisted = () => {
             Authorization: `Bearer ${token}`, // Add token to the headers
           },
         });
+        console.log(res.data)
 
         const data = res.data;
         console.log('Fetched applications:', data);

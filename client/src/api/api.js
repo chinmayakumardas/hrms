@@ -12,5 +12,12 @@ const axiosInstance = axios.create({
 export const getApplications = async () => {
   const res = await axiosInstance.get('/getshortlistedapplicantdetails'); // New endpoint
   return res.data;
+  console.log(res.data)
+};
+
+export const setApplications = async () => {
+  const res = await axiosInstance.get('/getshortlistedapplicantdetails'); // New endpoint
+  console.log(res)
+  return res.data;
 };
 

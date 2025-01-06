@@ -12,6 +12,7 @@ export default function LogoutButton() {
     dispatch(logout());
     localStorage.clear();
     router.push('/');
+    console.log("Logut Sucessfully")
   };
 
   return (
